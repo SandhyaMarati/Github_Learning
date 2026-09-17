@@ -1,6 +1,6 @@
 # Simple calculator for Git practice
 
-a = 10
+a = 15 #changed the value
 b = 5
 
 print("Addition:", a + b)
