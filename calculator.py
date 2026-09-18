@@ -1,7 +1,7 @@
 # Simple calculator for Git practice
 
 a = 15 #changed the value
-b = 10 
+b = 20 
 
 print("Addition:", a + b)
 print("Subtraction:", a - b)
